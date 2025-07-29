@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\bin\Debug\net6.0\SmallestNumber.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\bin\Debug\net6.0\SmallestNumber.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\bin\Debug\net6.0\SmallestNumber.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\bin\Debug\net6.0\SmallestNumber.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\bin\Debug\net6.0\SmallestNumber.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\refint\SmallestNumber.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\SmallestNumber.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\SmallestNumber\SmallestNumber\obj\Debug\net6.0\ref\SmallestNumber.dll

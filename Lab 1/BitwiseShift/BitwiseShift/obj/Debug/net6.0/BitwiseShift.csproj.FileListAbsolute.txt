@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\bin\Debug\net6.0\BitwiseShift.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\bin\Debug\net6.0\BitwiseShift.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\bin\Debug\net6.0\BitwiseShift.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\bin\Debug\net6.0\BitwiseShift.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\bin\Debug\net6.0\BitwiseShift.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\refint\BitwiseShift.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\BitwiseShift.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BitwiseShift\BitwiseShift\obj\Debug\net6.0\ref\BitwiseShift.dll

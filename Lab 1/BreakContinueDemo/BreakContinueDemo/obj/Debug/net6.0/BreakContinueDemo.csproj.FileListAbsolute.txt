@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\bin\Debug\net6.0\BreakContinueDemo.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\bin\Debug\net6.0\BreakContinueDemo.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\bin\Debug\net6.0\BreakContinueDemo.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\bin\Debug\net6.0\BreakContinueDemo.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\bin\Debug\net6.0\BreakContinueDemo.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\refint\BreakContinueDemo.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\BreakContinueDemo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\BreakContinueDemo\BreakContinueDemo\obj\Debug\net6.0\ref\BreakContinueDemo.dll

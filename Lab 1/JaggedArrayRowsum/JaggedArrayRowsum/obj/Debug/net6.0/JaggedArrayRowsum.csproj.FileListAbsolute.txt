@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\bin\Debug\net6.0\JaggedArrayRowsum.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\bin\Debug\net6.0\JaggedArrayRowsum.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\bin\Debug\net6.0\JaggedArrayRowsum.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\bin\Debug\net6.0\JaggedArrayRowsum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\bin\Debug\net6.0\JaggedArrayRowsum.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\refint\JaggedArrayRowsum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\JaggedArrayRowsum.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\JaggedArrayRowsum\JaggedArrayRowsum\obj\Debug\net6.0\ref\JaggedArrayRowsum.dll

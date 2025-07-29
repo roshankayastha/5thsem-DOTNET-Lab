@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\bin\Debug\net6.0\ArrayasParameter.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\bin\Debug\net6.0\ArrayasParameter.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\bin\Debug\net6.0\ArrayasParameter.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\bin\Debug\net6.0\ArrayasParameter.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\bin\Debug\net6.0\ArrayasParameter.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\refint\ArrayasParameter.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ArrayasParameter.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\ArrayasParameter\ArrayasParameter\obj\Debug\net6.0\ref\ArrayasParameter.dll

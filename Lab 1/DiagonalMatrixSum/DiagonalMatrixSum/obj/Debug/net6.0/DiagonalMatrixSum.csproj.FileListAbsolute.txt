@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\bin\Debug\net6.0\DiagonalMatrixSum.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\bin\Debug\net6.0\DiagonalMatrixSum.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\bin\Debug\net6.0\DiagonalMatrixSum.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\bin\Debug\net6.0\DiagonalMatrixSum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\bin\Debug\net6.0\DiagonalMatrixSum.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\refint\DiagonalMatrixSum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\DiagonalMatrixSum.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\DiagonalMatrixSum\DiagonalMatrixSum\obj\Debug\net6.0\ref\DiagonalMatrixSum.dll

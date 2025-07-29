@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\bin\Debug\net6.0\StringSplitMethod.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\bin\Debug\net6.0\StringSplitMethod.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\bin\Debug\net6.0\StringSplitMethod.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\bin\Debug\net6.0\StringSplitMethod.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\bin\Debug\net6.0\StringSplitMethod.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\refint\StringSplitMethod.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\StringSplitMethod.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringSplitMethod\StringSplitMethod\obj\Debug\net6.0\ref\StringSplitMethod.dll

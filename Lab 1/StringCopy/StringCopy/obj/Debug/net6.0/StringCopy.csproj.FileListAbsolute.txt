@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\bin\Debug\net6.0\StringCopy.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\bin\Debug\net6.0\StringCopy.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\bin\Debug\net6.0\StringCopy.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\bin\Debug\net6.0\StringCopy.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\bin\Debug\net6.0\StringCopy.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\refint\StringCopy.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\StringCopy.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\StringCopy\StringCopy\obj\Debug\net6.0\ref\StringCopy.dll

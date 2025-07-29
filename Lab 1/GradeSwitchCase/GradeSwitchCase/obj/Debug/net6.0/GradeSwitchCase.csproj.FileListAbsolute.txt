@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\bin\Debug\net6.0\GradeSwitchCase.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\bin\Debug\net6.0\GradeSwitchCase.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\bin\Debug\net6.0\GradeSwitchCase.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\bin\Debug\net6.0\GradeSwitchCase.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\bin\Debug\net6.0\GradeSwitchCase.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\refint\GradeSwitchCase.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\GradeSwitchCase.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 1\GradeSwitchCase\GradeSwitchCase\obj\Debug\net6.0\ref\GradeSwitchCase.dll
