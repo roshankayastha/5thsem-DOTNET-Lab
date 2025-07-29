@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.AssemblyInfo.cs
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\bin\Debug\net6.0\RelationalOperators.exe
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\bin\Debug\net6.0\RelationalOperators.deps.json
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\bin\Debug\net6.0\RelationalOperators.runtimeconfig.json
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\bin\Debug\net6.0\RelationalOperators.dll
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\bin\Debug\net6.0\RelationalOperators.pdb
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.dll
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\refint\RelationalOperators.dll
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.pdb
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\RelationalOperators.genruntimeconfig.cache
+C:\Users\ACER\source\repos\RelationalOperators\RelationalOperators\obj\Debug\net6.0\ref\RelationalOperators.dll

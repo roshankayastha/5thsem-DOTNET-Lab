@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\DisplayName\DisplayName\bin\Debug\net6.0\DisplayName.exe
+C:\Users\ACER\source\repos\DisplayName\DisplayName\bin\Debug\net6.0\DisplayName.deps.json
+C:\Users\ACER\source\repos\DisplayName\DisplayName\bin\Debug\net6.0\DisplayName.runtimeconfig.json
+C:\Users\ACER\source\repos\DisplayName\DisplayName\bin\Debug\net6.0\DisplayName.dll
+C:\Users\ACER\source\repos\DisplayName\DisplayName\bin\Debug\net6.0\DisplayName.pdb
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.dll
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\refint\DisplayName.dll
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.pdb
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\DisplayName.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DisplayName\DisplayName\obj\Debug\net6.0\ref\DisplayName.dll

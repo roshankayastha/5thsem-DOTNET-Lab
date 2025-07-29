@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\bin\Debug\net6.0\arithmeticOperators.exe
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\bin\Debug\net6.0\arithmeticOperators.deps.json
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\bin\Debug\net6.0\arithmeticOperators.runtimeconfig.json
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\bin\Debug\net6.0\arithmeticOperators.dll
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\bin\Debug\net6.0\arithmeticOperators.pdb
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.AssemblyInfo.cs
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.dll
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\refint\arithmeticOperators.dll
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.pdb
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\arithmeticOperators.genruntimeconfig.cache
+C:\Users\ACER\source\repos\arithmeticOperators\arithmeticOperators\obj\Debug\net6.0\ref\arithmeticOperators.dll

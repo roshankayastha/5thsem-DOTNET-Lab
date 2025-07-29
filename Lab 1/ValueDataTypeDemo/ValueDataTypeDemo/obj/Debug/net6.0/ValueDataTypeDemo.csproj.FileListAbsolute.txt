@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\bin\Debug\net6.0\ValueDataTypeDemo.exe
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\bin\Debug\net6.0\ValueDataTypeDemo.deps.json
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\bin\Debug\net6.0\ValueDataTypeDemo.runtimeconfig.json
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\bin\Debug\net6.0\ValueDataTypeDemo.dll
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\bin\Debug\net6.0\ValueDataTypeDemo.pdb
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.dll
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\refint\ValueDataTypeDemo.dll
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.pdb
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ValueDataTypeDemo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\ValueDataTypeDemo\ValueDataTypeDemo\obj\Debug\net6.0\ref\ValueDataTypeDemo.dll
