@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\refint\MethodOverloading.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MethodOverloading\MethodOverloading\obj\Debug\net6.0\ref\MethodOverloading.dll

@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\bin\Debug\net6.0\Indexer.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\bin\Debug\net6.0\Indexer.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\bin\Debug\net6.0\Indexer.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\bin\Debug\net6.0\Indexer.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\refint\Indexer.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\Indexer\Indexer\obj\Debug\net6.0\ref\Indexer.dll

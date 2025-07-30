@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\bin\Debug\net6.0\ComparisonOperatorOverloading.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\bin\Debug\net6.0\ComparisonOperatorOverloading.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\bin\Debug\net6.0\ComparisonOperatorOverloading.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\bin\Debug\net6.0\ComparisonOperatorOverloading.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\bin\Debug\net6.0\ComparisonOperatorOverloading.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\refint\ComparisonOperatorOverloading.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ComparisonOperatorOverloading.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ComparisonOperatorOverloading\ComparisonOperatorOverloading\obj\Debug\net6.0\ref\ComparisonOperatorOverloading.dll

@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\refint\ParameterizedConstructor.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ref\ParameterizedConstructor.dll

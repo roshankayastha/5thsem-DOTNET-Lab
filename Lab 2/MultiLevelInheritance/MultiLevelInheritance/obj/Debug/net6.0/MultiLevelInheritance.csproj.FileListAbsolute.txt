@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\refint\MultiLevelInheritance.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\net6.0\ref\MultiLevelInheritance.dll

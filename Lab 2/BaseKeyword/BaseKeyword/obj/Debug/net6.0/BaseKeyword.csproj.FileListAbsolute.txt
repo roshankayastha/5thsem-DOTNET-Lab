@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\bin\Debug\net6.0\BaseKeyword.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\bin\Debug\net6.0\BaseKeyword.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\bin\Debug\net6.0\BaseKeyword.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\bin\Debug\net6.0\BaseKeyword.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\bin\Debug\net6.0\BaseKeyword.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\refint\BaseKeyword.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\BaseKeyword.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\BaseKeyword\BaseKeyword\obj\Debug\net6.0\ref\BaseKeyword.dll
