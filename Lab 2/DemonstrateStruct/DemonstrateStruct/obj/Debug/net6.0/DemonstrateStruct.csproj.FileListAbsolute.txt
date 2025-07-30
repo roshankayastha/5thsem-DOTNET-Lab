@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\bin\Debug\net6.0\DemonstrateStruct.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\bin\Debug\net6.0\DemonstrateStruct.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\bin\Debug\net6.0\DemonstrateStruct.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\bin\Debug\net6.0\DemonstrateStruct.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\bin\Debug\net6.0\DemonstrateStruct.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\refint\DemonstrateStruct.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\DemonstrateStruct.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateStruct\DemonstrateStruct\obj\Debug\net6.0\ref\DemonstrateStruct.dll

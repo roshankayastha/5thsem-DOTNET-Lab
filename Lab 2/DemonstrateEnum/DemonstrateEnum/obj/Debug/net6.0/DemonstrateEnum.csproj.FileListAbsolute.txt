@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\bin\Debug\net6.0\DemonstrateEnum.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\bin\Debug\net6.0\DemonstrateEnum.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\bin\Debug\net6.0\DemonstrateEnum.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\bin\Debug\net6.0\DemonstrateEnum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\bin\Debug\net6.0\DemonstrateEnum.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\refint\DemonstrateEnum.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\DemonstrateEnum.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateEnum\DemonstrateEnum\obj\Debug\net6.0\ref\DemonstrateEnum.dll

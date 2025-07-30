@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\bin\Debug\net6.0\GenericMethodDemo.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\bin\Debug\net6.0\GenericMethodDemo.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\bin\Debug\net6.0\GenericMethodDemo.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\bin\Debug\net6.0\GenericMethodDemo.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\bin\Debug\net6.0\GenericMethodDemo.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\refint\GenericMethodDemo.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\GenericMethodDemo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\GenericMethodDemo\GenericMethodDemo\obj\Debug\net6.0\ref\GenericMethodDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\bin\Debug\net6.0\DemonstrateGenericClass.exe
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\bin\Debug\net6.0\DemonstrateGenericClass.deps.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\bin\Debug\net6.0\DemonstrateGenericClass.runtimeconfig.json
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\bin\Debug\net6.0\DemonstrateGenericClass.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\bin\Debug\net6.0\DemonstrateGenericClass.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.AssemblyInfo.cs
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\refint\DemonstrateGenericClass.dll
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.pdb
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\DemonstrateGenericClass.genruntimeconfig.cache
+C:\Users\ACER\source\repos\5th semeseter DOTNET Lab\Lab 2\DemonstrateGenericClass\DemonstrateGenericClass\obj\Debug\net6.0\ref\DemonstrateGenericClass.dll
